@@ -1,12 +1,15 @@
-<img src="https://github.com/dokyll/dokyll.github.io/blob/main/CELLLogo.png?raw=true" alt="Logo Dokyll" width="200" height="200"></img>
+<div align="center">
+  
+  
+  <img src="https://github.com/dokyll/dokyll.github.io/blob/main/CELLLogo.png?raw=true" alt="Logo Dokyll" width="200" height="200"></img>
 
-### Dokyll
 
-Un builder di pagine creato in Python
+# Costruisci siti web da file
 
-- [Dokyll](https://github.com/dokyll/dokyll)
-- [Codice Sito](https://github.com/dokyll/dokyll.github.io)
+[✨ Scarica Dokyll](https://dokyll.github.io/download/) -
+[💻 Repository di Dokyll](https://github.com/dokyll/dokyll) -
+[🐛 Issues](https://github.com/dokyll/dokyll/issues) -
+[🌐 Sito web](https://dokyll.github.io)
+</div>
 
----
-
-_(Guarda anche il nostro sito - [dokyll.github.io](https://dokyll.github.io))_
+Dokyll è una CLI che trasforma i tuoi file .html,.md e tutti quelli del tuo sito in build statiche pronte per il web, con un flusso semplice e ripetibile, in formato .dok.
