@@ -1,10 +1,12 @@
 <div align="center">
  
   
-<img src="https://github.com/dokyll/dokyll.github.io/blob/main/CELLLogo.png?raw=true" alt="Logo Dokyll" 
-width="200"
-height="200"
-href="https://dokyll.github.io"></img>
+<a href="https://dokyll.github.io">
+    <img src="https://github.com/dokyll/dokyll.github.io/blob/main/CELLLogo.png?raw=true"
+         alt="Logo Dokyll"
+         width="200"
+         height="200">
+</a>
 
 
 <h1>Costruisci siti web da file</h1>
