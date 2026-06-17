@@ -24,7 +24,7 @@ Dokyll è una CLI che trasforma i tuoi file `.html`, `.md` e tutti quelli del tu
 
 ---
 
-##### 👋 Contribuire a Dokyll
+#### 👋 Contribuire a Dokyll
 
 
 Dokyll è un progetto open source e alla portata di tutti. \
@@ -32,13 +32,13 @@ Sei interessato a contribuire a Dokyll? Dai un'occhiata alla [Guida per Contribu
 
 ---
 
-##### 🦺 Aiutaci a rendere questa Community sicura
+#### 🦺 Aiutaci a rendere questa Community sicura
 
 Dokyll segue la nostra [Guida per Contribuire](https://dokyll.github.io/legal/?doc=contributing&ver=legal) e il [Codice di Condotta di Dokyll](https://dokyll.github.io/legal/?doc=coc&ver=legal). \
 Considera di rispettare queste regole per mantenere una Community sicura.
 
 ---
 
-##### 👾 Segnalare problemi di sicurezza
+#### 👾 Segnalare problemi di sicurezza
 
 Se ritieni di aver individuato una vulnerabilità o un problema di sicurezza, ti invitiamo a contattare privatamente i maintainer del progetto invece di aprire una issue pubblica.
